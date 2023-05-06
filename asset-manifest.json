@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-speechnotes/static/css/main.2bc54c23.css",
+    "main.js": "/React-speechnotes/static/js/main.304dc0c6.js",
+    "static/js/787.ed518d43.chunk.js": "/React-speechnotes/static/js/787.ed518d43.chunk.js",
+    "index.html": "/React-speechnotes/index.html",
+    "main.2bc54c23.css.map": "/React-speechnotes/static/css/main.2bc54c23.css.map",
+    "main.304dc0c6.js.map": "/React-speechnotes/static/js/main.304dc0c6.js.map",
+    "787.ed518d43.chunk.js.map": "/React-speechnotes/static/js/787.ed518d43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bc54c23.css",
+    "static/js/main.304dc0c6.js"
+  ]
+}
